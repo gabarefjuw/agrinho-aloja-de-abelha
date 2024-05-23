@@ -135,7 +135,7 @@ main {width: 100%;}
     padding: 1em;
     border: none;
     border-radius: 3px;
-    background-image: linear-gradient(to right bottom, #412e82, #393581, #333b7e, #2f407a, #2f4475);
+    background-image: linear-gradient(to right bottom, #b4d61e, #b5e31e, #333b7e, #2f407a, #2f4475);
     color: #E9F3FE;
     font-size: 1,2em;
     text-transform: capitalize;
@@ -175,7 +175,7 @@ main {width: 100%;}
     height: 100px;
     width: 100%;
 
-    background-color: #0e2537;
+    background-color: #ef9f00;
     clear: both;
     padding: 28px;
     color: rgb(250, 255, 250);
