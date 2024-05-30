@@ -12,11 +12,19 @@ img{max-width: 100%;}
 p {font-size: 1.2em; line-height: 1.4em; color: #141A28;}
 
 h2 {color: #141A28;}
-
 .container {
-    width: 960px;
+width: 980px;
     margin: 0 auto;
-    padding: 15px;
+    padding: 20px;
+    display: grid;
+    justify-content: space-between;
+    /* align-items: center; */
+    grid-template-columns: 33% 33% 33%;
+}
+.containe {
+    width: 980px;
+    margin: 0 auto;
+    padding: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -39,7 +47,7 @@ header {
 }
 
 .branch, .branch img {
-    width: 90px;
+    width: 144px;
     
 }
 
@@ -72,7 +80,7 @@ main {width: 100%;}
 
 .super-card-img, 
 .super-card-img img {
-    width: 800px;
+    width: 100%;
     border-radius: 50%;
     display: flex;
     flex-direction: column;
@@ -134,7 +142,7 @@ main {width: 100%;}
     padding: 1em;
     border: none;
     border-radius: 3px;
-    background-image: linear-gradient(to right bottom, #b4d61e, #b5e31e, #333b7e, #2f407a, #2f4475);
+    background-image: linear-gradient(to right bottom, #412e82, #393581, #333b7e, #2f407a, #2f4475);
     color: #E9F3FE;
     font-size: 1,2em;
     text-transform: capitalize;
@@ -174,10 +182,10 @@ main {width: 100%;}
     height: 100px;
     width: 100%;
 
-    background-color: #ef9f00;
+    background-color: #0e2537;
     clear: both;
     padding: 28px;
-    color: rgb(157, 247, 13);
+    color: rgb(250, 255, 250);
     font-size: 15px;
     font-family: "arial", sans-serif;
 }
