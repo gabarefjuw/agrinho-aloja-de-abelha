@@ -11,7 +11,7 @@ a {color: #FFF;}
 img{max-width: 100%;}
 p {font-size: 1.2em; line-height: 1.4em; color: #141A28;}
 
-h2 {color: #141A28;}
+h2 {color: #e2f10b;}
 .container {
 width: 980px;
     margin: 0 auto;
@@ -99,7 +99,7 @@ main {width: 100%;}
     min-height: 500px;
     border-radius: 3px;
     margin: 1em;
-    background-color: #FFF;
+    background-color: #c4f342;
     box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, .15);
     transition: all .3s ease-in-out;
     display: flex;
