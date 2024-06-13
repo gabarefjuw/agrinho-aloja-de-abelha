@@ -121,7 +121,7 @@ main {width: 100%;}
 
 .card-body { padding: 1em; }
 .card-body p {
-    color: #343A40;
+    color: #000000;
     line-height: 1.4em;
 }
 
@@ -143,7 +143,7 @@ main {width: 100%;}
     border: none;
     border-radius: 3px;
     background-image: linear-gradient(to right bottom, #412e82, #393581, #333b7e, #2f407a, #2f4475);
-    color: #E9F3FE;
+    color: #6d6e6e;
     font-size: 1,2em;
     text-transform: capitalize;
     transition: all .3s ease-in-out;
@@ -168,7 +168,7 @@ main {width: 100%;}
     border-radius: 5px;
 }
 
-.contact-link{color: #141A28;}
+.contact-link{color: #000000;}
 
 .map{
     margin: 20px 0;
