@@ -11,7 +11,7 @@ a {color: #FFF;}
 img{max-width: 100%;}
 p {font-size: 1.2em; line-height: 1.4em; color: #141A28;}
 
-h2 {color: #04e204;}
+h2 {color: #2b792b;}
 .container {
 width: 980px;
     margin: 0 auto;
@@ -38,7 +38,7 @@ html, body {
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    background-color: #E9F3FE;
+    background-color: #9b9b9b;
 }
 
 header {
