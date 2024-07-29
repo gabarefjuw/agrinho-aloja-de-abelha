@@ -12,14 +12,13 @@ img{max-width: 100%;}
 p {font-size: 1.2em; line-height: 1.4em; color: #141A28;}
 
 h2 {color: #000000;}
+
 .container {
 width: 980px;
     margin: 0 auto;
     padding: 20px;
-    display: grid;
-    justify-content: space-between;
     /* align-items: center; */
-    grid-template-columns: 33% 33% 33%;
+  
 }
 .containe {
     width: 980px;
@@ -188,4 +187,11 @@ main {width: 100%;}
     color: rgb(250, 255, 250);
     font-size: 15px;
     font-family: "arial", sans-serif;
+}
+@media screen and (min-width:1024px) {
+    .container{
+        display: grid;
+        grid-template-columns: 33% 33% 33%;
+        justify-content: space-between;
+    }
 }
