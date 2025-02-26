@@ -59,7 +59,7 @@ header {
     display: block;
     margin: 10px;
     padding: 10px;
-    color: #E9F3FE;
+    color: #858585;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: .15em;
@@ -98,7 +98,7 @@ main {width: 100%;}
     min-height: 500px;
     border-radius: 3px;
     margin: 1em;
-    background-color: #e49400;
+    background-color: #062fe4;
     box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, .15);
     transition: all .3s ease-in-out;
     display: flex;
