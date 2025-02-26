@@ -37,7 +37,7 @@ html, body {
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    background-color: #9b9b9b;
+    background-color: #fafafa;
 }
 
 header {
@@ -98,7 +98,7 @@ main {width: 100%;}
     min-height: 500px;
     border-radius: 3px;
     margin: 1em;
-    background-color: #feae17;
+    background-color: #e49400;
     box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, .15);
     transition: all .3s ease-in-out;
     display: flex;
