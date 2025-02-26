@@ -142,7 +142,7 @@ main {width: 100%;}
     border: none;
     border-radius: 3px;
     background-image: linear-gradient(to right bottom, #412e82, #393581, #333b7e, #2f407a, #2f4475);
-    color: #6d6e6e;
+    color: #0c7e7e;
     font-size: 1,2em;
     text-transform: capitalize;
     transition: all .3s ease-in-out;
